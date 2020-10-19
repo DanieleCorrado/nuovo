@@ -9,11 +9,8 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("Ciao")),
-      body: Column(
-        children: <Widget>[
-          Text("FUNZIONA!"),
-        ],
-      ),
+      
+            ),
     );
   }
 }
